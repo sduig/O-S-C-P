@@ -16,3 +16,16 @@ RFI
 https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf
 https://www.theprohack.com/2010/07/simple-tutorial-on-remote-file.html --RFI
 https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/ --LFI/RFI
+
+SQL Injection
+https://null-byte.wonderhowto.com/how-to/use-sql-injection-run-os-commands-get-shell-0191405/
+https://www.hackingarticles.in/sql-injection-exploitation-multiple-targets-using-sqlmap/
+
+MITM
+https://var.thejh.net/http_ftp_cross_protocol_mitm_attacks.pdf
+
+WEBSHELL
+https://nitesculucian.github.io/2018/07/24/msfvenom-cheat-sheet/
+https://highon.coffee/blog/reverse-shell-cheat-sheet/
+https://github.com/BlackArch/webshells/tree/master/php
+https://github.com/jivoi/pentest/tree/master/shell
