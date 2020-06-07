@@ -1,6 +1,5 @@
-https://github.com/swisskyrepo/PayloadsAllTheThings -- Payloads
-https://github.com/JohnTroony/php-webshells  -- Webshells
-https://github.com/mgeeky/tomcatWarDeployer -- Apache Tomcat
+PAYLOADS
+https://github.com/swisskyrepo/PayloadsAllTheThings 
 
 LFI
 
@@ -29,3 +28,5 @@ https://nitesculucian.github.io/2018/07/24/msfvenom-cheat-sheet/
 https://highon.coffee/blog/reverse-shell-cheat-sheet/
 https://github.com/BlackArch/webshells/tree/master/php
 https://github.com/jivoi/pentest/tree/master/shell
+https://github.com/JohnTroony/php-webshells
+https://github.com/mgeeky/tomcatWarDeployer -- Apache Tomcat
