@@ -1,0 +1,18 @@
+https://github.com/swisskyrepo/PayloadsAllTheThings -- Payloads
+https://github.com/JohnTroony/php-webshells  -- Webshells
+https://github.com/mgeeky/tomcatWarDeployer -- Apache Tomcat
+
+LFI
+
+https://outpost24.com/blog/from-local-file-inclusion-to-remote-code-execution-part-1
+https://medium.com/@Aptive/local-file-inclusion-lfi-web-application-penetration-testing-cc9dc8dd3601
+https://roguecod3r.wordpress.com/2014/03/17/lfi-to-shell-exploiting-apache-access-log/
+https://www.sunnyhoi.com/how-to-hack-a-website-using-local-file-inclusion-lfi/
+https://0x00sec.org/t/php-file-inclusion-vulnerability/5200
+https://medium.com/@Aptive/local-file-inclusion-lfi-web-application-penetration-testing-cc9dc8dd3601
+https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/ --LFI/RFI
+
+RFI
+https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf
+https://www.theprohack.com/2010/07/simple-tutorial-on-remote-file.html --RFI
+https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/ --LFI/RFI
